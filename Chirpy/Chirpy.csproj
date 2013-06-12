@@ -289,7 +289,7 @@
     </VisualStudio>
   </ProjectExtensions>
   <PropertyGroup>
-    <PostBuildEvent>copy "$(SolutionDir)Chirpy.Data\bin\$(ConfigurationName)\*.*" d:\temp\hfydpsjn.mx3\input\Chirpy\</PostBuildEvent>
+    <PostBuildEvent>copy "d:\temp\hfydpsjn.mx3\input\Chirpy\Chirpy.Data\bin\Release\*.*" "d:\temp\hfydpsjn.mx3\input\Chirpy\"</PostBuildEvent>
   </PropertyGroup>
   <Import Project="$(SolutionDir)\.nuget\nuget.targets" />
 </Project>
