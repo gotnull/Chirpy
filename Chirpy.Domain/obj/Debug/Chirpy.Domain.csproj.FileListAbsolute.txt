@@ -1,0 +1,5 @@
+C:\Users\cusful0\Documents\Visual Studio 2010\Projects\Chirpy\Chirpy.Domain\bin\Debug\Chirpy.Domain.dll
+C:\Users\cusful0\Documents\Visual Studio 2010\Projects\Chirpy\Chirpy.Domain\bin\Debug\Chirpy.Domain.pdb
+C:\Users\cusful0\Documents\Visual Studio 2010\Projects\Chirpy\Chirpy.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cusful0\Documents\Visual Studio 2010\Projects\Chirpy\Chirpy.Domain\obj\Debug\Chirpy.Domain.dll
+C:\Users\cusful0\Documents\Visual Studio 2010\Projects\Chirpy\Chirpy.Domain\obj\Debug\Chirpy.Domain.pdb
